@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Juan Paulo!
 **Software Developer | Systems and Computing Engineering Student | Problem-Solver and Tech Enthusiast**
 
-I'm currently an eighth-semester Systems and Computing Engineering student at Universidad Javeriana Cali. I’m passionate about web development and creating efficient solutions with modern technologies. With a solid foundation in JavaScript, React, and SQL, I am committed to building clean, maintainable code and always eager to learn new skills and techniques.
+I'm currently a tenth-semester Systems and Computing Engineering student at Universidad Javeriana Cali. I’m passionate about web development and creating efficient solutions with modern technologies. With a solid foundation in JavaScript, React, and SQL, I am committed to building clean, maintainable code and always eager to learn new skills and techniques.
 
 ### 🚀 Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
